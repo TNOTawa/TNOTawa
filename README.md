@@ -1,10 +1,10 @@
-## Hello 👋
-## Hello 👋
-## Hello 👋
-## Hi 👋
-## Hello 👋
+## TNOT
 
-![TNOT](https://stats.justsong.cn/api/bilibili/?id=1673962232&theme=dark&lang=zh-CN)
+Hello 👋
+Hello 👋
+Hello 👋
+Hi 👋
+Hello 👋
 
 ~~其实，我只会 Vibe（（（~~
 
